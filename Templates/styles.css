@@ -1,0 +1,37 @@
+body {
+    background-color: whitesmoke;
+    color: #514B64;
+    margin: 0;
+}
+
+code {
+    background: #fff;
+    
+    margin: 0;
+}
+
+nav {
+    display: block;
+    margin: auto;
+    height: 9%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+form {
+    display:block;
+    margin: auto;
+    padding: 0px;
+    width: 20%;
+    text-align: center;
+}
+
+
+.form-group {
+    padding: 10px;
+}
