@@ -5,7 +5,6 @@ import SubmitSearchButton from './SubmitSearchButton';
 
 
 function SearchComponent() {
-    const [value, setValue] = React.useState(new Date() );
 
     return (
             <div className="card-body">

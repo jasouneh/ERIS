@@ -5,6 +5,7 @@ import TabContext from '@mui/lab/TabContext';
 import TabList from '@mui/lab/TabList';
 import TabPanel from '@mui/lab/TabPanel';
 import Box from '@mui/material/Box';
+import MapSearchComponent from './MapSearchComponent';
 
 function SearchOptionsContaner() {
     const [value, setValue] = React.useState('1');
@@ -25,7 +26,7 @@ function SearchOptionsContaner() {
                     <SearchComponent />
                 </TabPanel>
                 <TabPanel value="2">
-                    
+                    <MapSearchComponent />
                 </TabPanel>
             </TabContext>
             

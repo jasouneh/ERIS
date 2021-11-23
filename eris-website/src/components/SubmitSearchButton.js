@@ -1,4 +1,3 @@
-import { autocompleteClasses } from '@mui/material'
 import Button from '@mui/material/Button'
 
 function SubmitSearchButton() {
