@@ -1,1 +1,2 @@
 # ERIS
+Open ./eris/website/
